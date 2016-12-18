@@ -1,1 +1,4 @@
 Ce dossier contient tous les documents relatifs à la partie software du projet.
+
+Le fichier Maya.py est le programme embarqué sur la raspberry pi. 
+Il permet de contrôler la ruche directement via l'écran tactile.
