@@ -1,0 +1,1 @@
+Ce dossier contient tous les documents relatifs à la partie software du projet.
