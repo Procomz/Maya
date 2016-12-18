@@ -1,0 +1,6 @@
+Pour contrôler la ruche, nous utilisons une raspberry pi 3 équipée d'un écran waveshare touchscreen de 3.5 pouces.
+
+Cet écran tactile permet de proposer au client une interface simple et intuitive.
+
+Les ordres et informations sont stockés sur Thingspeak (https://thingspeak.com/).
+La raspberry dispose d'une puce WiFi intégrée. Il est donc simple de la connecter à une box.
